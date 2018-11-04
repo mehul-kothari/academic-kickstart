@@ -10,31 +10,24 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Full stack Development",
+    "Data Science ",
+    "Machine Learning"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Bachelors in Computer Engineering"
+  institution = "Sardar Patel Institute of Technology"
+  year = 2014
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Masters in Computer Science"
+  institution = "University of California, Irvine"
+  year = 2018
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
+
 +++
 
 # Biography
-
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a graduate student at University of California, Irvine(UCI) pursuing my masters in Computer Science. I am passionate about developing innovative and real time applications. I am an application and a full stack developer. Python and Java are two of my favorite technologies to work on. I have also worked on Machine Learning and Data Science libraries.I am working on developing a Database Management System which includes basic file ,page and record handling. In my free time I love playing soccer and watching movies.
