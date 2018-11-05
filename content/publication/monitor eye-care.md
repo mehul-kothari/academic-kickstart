@@ -22,7 +22,7 @@ publication = "In *INTERNATIONAL CONFERENCE ON COMPUTING, COMMUNICATION AND NETW
 publication_short = "In *ICCCNT*"
 
 #Abstract and optional shortened version.
-abstract = "Online news popularity has become an important issue and a lot of research work is being carried out on the same. Predicting the popularity of an article, a video or any online content can rightly tackle and influence marketing strategies, strengthen the base of any news topic and can also be a valuable asset to the recommendation systems. The aim of this paper is to predict the popularity of news articles for which we have made use of mashable dataset. The paper successfully implements and compares eleven models and found that Gradient Boost works the best on the Online News Popularity dataset with an accuracy of 79.7. Taking the mean of the shares of all the articles the study concludes that articles with more than 3395 shares are considered popular. The paper provides a detailed analysis of all the models and presented a table at the end comparing the results."
+abstract = "The aim of this paper is to predict the popularity of news articles for which we have made use of mashable dataset. The paper successfully implements and compares eleven models and found that Gradient Boost works the best on the Online News Popularity dataset with an accuracy of 79.7. Taking the mean of the shares of all the articles the study concludes that articles with more than 3395 shares are considered popular. The paper provides a detailed analysis of all the models and presented a table at the end comparing the results."
 
 # Featured image thumbnail (optional)
 #image_preview = ""
