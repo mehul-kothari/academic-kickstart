@@ -9,7 +9,7 @@ title = "Local Library"
 summary = "A simple online library website created using ExpressJs and mongoose."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = ""
+image_preview = "library.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

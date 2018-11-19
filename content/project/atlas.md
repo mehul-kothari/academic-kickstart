@@ -9,7 +9,7 @@ title = "Atlas"
 summary = "An android multiplayer game"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = ""
+image_preview = "static/img/atlas.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

@@ -9,7 +9,7 @@ title = "Project Management System"
 summary = "A project management app which eases the process of uploading and grading projects"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = ""
+image_preview = "project.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

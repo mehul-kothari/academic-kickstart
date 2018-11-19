@@ -9,7 +9,7 @@ title = "Cric-Bot"
 summary = "A cognitive document search chat-bot"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = ""
+image_preview = "cricket.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

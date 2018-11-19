@@ -9,7 +9,7 @@ title = "Fake-net"
 summary = "Developed an application to classify fake news articles from true ones"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = ""
+image_preview = "fakenews.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

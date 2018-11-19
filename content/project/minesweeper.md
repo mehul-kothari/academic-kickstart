@@ -9,7 +9,7 @@ title = "Minesweeper (AI agent)"
 summary = "A single player game. Manual and Automatic"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = ""
+image_preview = "mine1.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

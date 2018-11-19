@@ -9,7 +9,7 @@ title = "Spon-taneous"
 summary = "A platform for students and sponsors to interact"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = ""
+image_preview = "Sponsors.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
